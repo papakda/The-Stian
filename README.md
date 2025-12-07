@@ -37,8 +37,24 @@
   | `Auto-Reply` | `Anti-Delete` | `Sticker Maker` |
   | `Group Management` | `Anti-Spam` | `Video Downloader` |
   | `AI Chat Integration` | `Owner Only Mode` | `Image Editor` |
+  AND MORE...
 
 </div>
+
+<br>
+<hr>
+
+<h2 align="center">🍴 FORK THIS REPO</h2>
+<p align="center">Fork <b>𝐓𝐇𝐄 𝐒𝐓𝐈𝐀𝐍</b> repository to your GitHub account.</p>
+
+<div align="center">
+  <a href="https://github.com/TheStian/The-Stian/fork">
+    <img src="https://img.shields.io/badge/FORK%20THIS%20REPO-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repository" height="50">
+  </a>
+</div>
+
+<br>
+<hr>
 
 <br/>
 
